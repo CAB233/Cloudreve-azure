@@ -53,5 +53,5 @@
 
 鸣谢
 
-- [lyj0309](https://github.com/lyj0309)/[pan](https://github.com/lyj0309/pan)
-- [chuyua](https://github.com/chuyua)/[cloudreve-render](https://github.com/chuyua/cloudreve-render)
+- [lyj0309/pan](https://github.com/lyj0309/pan)
+- [chuyua/cloudreve-render](https://github.com/chuyua/cloudreve-render)
